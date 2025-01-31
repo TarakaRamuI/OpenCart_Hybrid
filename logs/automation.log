@@ -1,125 +1,65 @@
-2025-01-27 09:58:55 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml"
-2025-01-27 09:58:56 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml
-
-2025-01-27 09:59:17 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
-2025-01-27 09:59:21 INFO  TC001_AccountRegistrationTest:26 - Clicked on MyAccount button
-2025-01-27 09:59:25 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register button
-2025-01-27 09:59:26 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
-2025-01-27 09:59:34 INFO  TC001_AccountRegistrationTest:59 - Validating expected message
-2025-01-27 09:59:36 INFO  TC001_AccountRegistrationTest:88 - **** Finished TC_001_AccountRagistrationTest ****
-2025-01-27 10:04:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml"
-2025-01-27 10:04:05 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml
-
-2025-01-27 10:11:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml"
-2025-01-27 10:11:30 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml
-
-2025-01-27 10:11:38 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
-2025-01-27 10:11:38 INFO  TC001_AccountRegistrationTest:26 - Clicked on MyAccount button
-2025-01-27 10:11:39 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register button
-2025-01-27 10:11:39 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
-2025-01-27 10:11:43 INFO  TC001_AccountRegistrationTest:59 - Validating expected message
-2025-01-27 10:11:43 INFO  TC001_AccountRegistrationTest:88 - **** Finished TC_001_AccountRagistrationTest ****
-2025-01-27 10:14:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\docker-compose.yaml"
-2025-01-27 10:14:42 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
-2025-01-27 10:15:11 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
-2025-01-27 10:15:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml"
-2025-01-27 10:15:42 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml
-
-2025-01-27 10:15:55 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
-2025-01-27 10:15:55 INFO  TC001_AccountRegistrationTest:26 - Clicked on MyAccount button
-2025-01-27 10:15:56 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register button
-2025-01-27 10:15:56 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
-2025-01-27 10:15:58 INFO  TC001_AccountRegistrationTest:59 - Validating expected message
-2025-01-27 10:15:58 INFO  TC001_AccountRegistrationTest:88 - **** Finished TC_001_AccountRagistrationTest ****
-2025-01-27 10:16:03 INFO  TC002_LoginTest:16 - **** Strating TC_002LoginTest *****
-2025-01-27 10:16:05 INFO  TC002_LoginTest:51 - **** Finishing TC_002LoginTest *****
-2025-01-27 10:16:49 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
-2025-01-27 10:26:55 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml"
-2025-01-27 10:26:57 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml
-
-2025-01-27 10:27:06 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
-2025-01-27 10:27:06 INFO  TC001_AccountRegistrationTest:26 - Clicked on MyAccount button
-2025-01-27 10:27:07 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register button
-2025-01-27 10:27:07 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
-2025-01-27 10:27:10 INFO  TC001_AccountRegistrationTest:59 - Validating expected message
-2025-01-27 10:27:10 INFO  TC001_AccountRegistrationTest:88 - **** Finished TC_001_AccountRagistrationTest ****
-2025-01-27 10:27:15 INFO  TC002_LoginTest:16 - **** Strating TC_002LoginTest *****
-2025-01-27 10:27:17 INFO  TC002_LoginTest:51 - **** Finishing TC_002LoginTest *****
-2025-01-27 10:28:47 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml"
-2025-01-27 10:28:48 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml
-
-2025-01-27 10:28:56 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
-2025-01-27 10:42:11 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml"
-2025-01-27 10:42:11 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml
-
-2025-01-27 10:42:15 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
-2025-01-27 10:48:09 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml"
-2025-01-27 10:48:10 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml
-
-2025-01-27 10:48:14 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
-2025-01-27 10:51:25 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml"
-2025-01-27 10:51:26 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml
-
-2025-01-27 10:53:49 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
-2025-01-27 11:06:56 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml"
-2025-01-27 11:06:57 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml
-
-2025-01-27 11:07:16 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
-2025-01-27 15:14:33 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
-2025-01-27 15:15:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
-2025-01-27 15:16:14 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
-2025-01-27 15:16:58 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
-2025-01-27 15:16:59 INFO  Utils:112 - [TestNG] Running:
+2025-01-30 11:02:47 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
+2025-01-30 11:02:48 INFO  Utils:112 - [TestNG] Running:
   C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml
 
-2025-01-27 15:17:08 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
-2025-01-27 15:17:09 INFO  TC001_AccountRegistrationTest:26 - Clicked on MyAccount button
-2025-01-27 15:17:09 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register button
-2025-01-27 15:17:09 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
-2025-01-27 15:17:12 INFO  TC001_AccountRegistrationTest:59 - Validating expected message
-2025-01-27 15:17:12 INFO  TC001_AccountRegistrationTest:88 - **** Finished TC_001_AccountRagistrationTest ****
-2025-01-27 15:17:16 INFO  TC002_LoginTest:16 - **** Strating TC_002LoginTest *****
-2025-01-27 15:17:18 INFO  TC002_LoginTest:51 - **** Finishing TC_002LoginTest *****
-2025-01-27 15:18:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml"
-2025-01-27 15:18:20 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\grid-docker.xml
+2025-01-30 11:02:55 INFO  TC002_LoginTest:16 - **** Strating TC_002LoginTest *****
+2025-01-30 11:02:57 INFO  TC002_LoginTest:51 - **** Finishing TC_002LoginTest *****
+2025-01-30 11:03:02 INFO  TC_004_SearchProductTest:15 -  Starting TC_004_SearchProductTest 
+2025-01-30 11:03:03 INFO  TC_004_SearchProductTest:36 -  Finished TC_004_SearchProductTest 
+2025-01-30 11:03:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
+2025-01-30 11:03:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml
 
-2025-01-27 15:58:31 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
-2025-01-27 16:00:03 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
-2025-01-27 16:00:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
-2025-01-27 16:00:45 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
-2025-01-27 16:00:45 INFO  TC001_AccountRegistrationTest:26 - Clicked on MyAccount button
-2025-01-27 16:00:46 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register button
-2025-01-27 16:00:46 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
-2025-01-27 16:00:48 INFO  TC001_AccountRegistrationTest:59 - Validating expected message
-2025-01-27 16:00:48 INFO  TC001_AccountRegistrationTest:88 - **** Finished TC_001_AccountRagistrationTest ****
-2025-01-27 16:00:53 INFO  TC002_LoginTest:16 - **** Strating TC_002LoginTest *****
-2025-01-27 16:00:56 INFO  TC002_LoginTest:51 - **** Finishing TC_002LoginTest *****
-2025-01-27 16:39:08 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
-2025-01-27 16:39:18 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
-2025-01-27 16:39:18 INFO  TC001_AccountRegistrationTest:26 - Clicked on MyAccount button
-2025-01-27 16:39:19 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register button
-2025-01-27 16:39:19 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
-2025-01-27 16:39:22 INFO  TC001_AccountRegistrationTest:59 - Validating expected message
-2025-01-27 16:39:22 INFO  TC001_AccountRegistrationTest:88 - **** Finished TC_001_AccountRagistrationTest ****
-2025-01-27 16:39:26 INFO  TC002_LoginTest:16 - **** Strating TC_002LoginTest *****
-2025-01-27 16:39:28 INFO  TC002_LoginTest:51 - **** Finishing TC_002LoginTest *****
-2025-01-27 20:07:34 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
-2025-01-27 20:07:43 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
-2025-01-27 20:07:43 INFO  TC001_AccountRegistrationTest:26 - Clicked on MyAccount button
-2025-01-27 20:07:44 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register button
-2025-01-27 20:07:44 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
-2025-01-27 20:07:47 INFO  TC001_AccountRegistrationTest:59 - Validating expected message
-2025-01-27 20:07:47 INFO  TC001_AccountRegistrationTest:88 - **** Finished TC_001_AccountRagistrationTest ****
-2025-01-27 20:07:53 INFO  TC002_LoginTest:16 - **** Strating TC_002LoginTest *****
-2025-01-27 20:07:55 INFO  TC002_LoginTest:51 - **** Finishing TC_002LoginTest *****
+2025-01-30 11:03:25 INFO  TC002_LoginTest:16 - **** Strating TC_002LoginTest *****
+2025-01-30 11:03:28 INFO  TC002_LoginTest:51 - **** Finishing TC_002LoginTest *****
+2025-01-30 11:03:31 INFO  TC_004_SearchProductTest:15 -  Starting TC_004_SearchProductTest 
+2025-01-30 11:03:33 INFO  TC_004_SearchProductTest:36 -  Finished TC_004_SearchProductTest 
+2025-01-30 12:09:21 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
+2025-01-30 12:09:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml
+
+2025-01-30 12:09:27 INFO  TC002_LoginTest:16 - **** Strating TC_002LoginTest *****
+2025-01-30 12:09:29 INFO  TC002_LoginTest:51 - **** Finishing TC_002LoginTest *****
+2025-01-30 12:09:33 INFO  TC_004_SearchProductTest:17 -  Starting TC_004_SearchProductTest 
+2025-01-30 12:09:34 INFO  TC_004_SearchProductTest:38 -  Finished TC_004_SearchProductTest 
+2025-01-30 12:09:38 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-01-30 12:09:41 INFO  TC_005_AddToCartPageTest:41 -  Finished TC_004_SearchProductTest 
+2025-01-30 12:15:11 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
+2025-01-30 12:15:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml
+
+2025-01-30 12:15:17 INFO  TC001_AccountRegistrationTest:17 - **** Starting TC_001_AccountRagistrationTest ***** 
+2025-01-30 12:15:18 INFO  TC001_AccountRegistrationTest:26 - Clicked on MyAccount button
+2025-01-30 12:15:19 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register button
+2025-01-30 12:15:19 INFO  TC001_AccountRegistrationTest:34 - Providing customer details
+2025-01-30 12:15:21 INFO  TC001_AccountRegistrationTest:59 - Validating expected message
+2025-01-30 12:15:21 INFO  TC001_AccountRegistrationTest:88 - **** Finished TC_001_AccountRagistrationTest ****
+2025-01-30 12:15:26 INFO  TC002_LoginTest:16 - **** Strating TC_002LoginTest *****
+2025-01-30 12:15:28 INFO  TC002_LoginTest:51 - **** Finishing TC_002LoginTest *****
+2025-01-30 12:15:32 INFO  TC_004_SearchProductTest:17 -  Starting TC_004_SearchProductTest 
+2025-01-30 12:15:33 INFO  TC_004_SearchProductTest:38 -  Finished TC_004_SearchProductTest 
+2025-01-30 12:15:38 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2025-01-30 14:47:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
+2025-01-30 14:47:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml
+
+2025-01-30 14:50:25 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
+2025-01-30 14:50:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml
+
+2025-01-30 14:51:42 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
+2025-01-30 14:51:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml
+
+2025-01-30 15:03:38 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
+2025-01-30 15:03:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml
+
+2025-01-30 21:37:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
+2025-01-30 21:37:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml
+
+2025-01-30 21:56:30 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml"
+2025-01-30 21:56:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\user\Live_Project_Qedge_Restarting_July_2024\OpenCart_Hybrid\master.xml
+

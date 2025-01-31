@@ -8,20 +8,13 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_002_LoginTest">
+      <class name="testCases.TC_006_EndToEndTest">
         <methods>
-          <include name="verfyLogin"/>
+          <include name="endToEndTest"/>
           <include name="tearDown"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- testCases.TC_002_LoginTest -->
-      <class name="testCases.TC_001_AccountRagistrationTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="verify_Account_RegPage"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- testCases.TC_001_AccountRagistrationTest -->
+      </class> <!-- testCases.TC_006_EndToEndTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->
